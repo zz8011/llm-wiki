@@ -22,4 +22,8 @@
 ## [2026-04-06] ingest | 抖音收藏（第二批）
 - Seedance2-Storyboard-Generator - 789 stars，AI 视频制作工作流
 - Suno 音频质量提升技巧 - 提示词技巧
+
+## [2026-04-06] ingest | 抖音收藏（第三批）
+- stitch-skills - 3.9k stars，Google Stitch Agent Skills
+- 创建了概念页：设计系统
 - 更新了 index.md 和 log.md
