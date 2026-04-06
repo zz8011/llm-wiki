@@ -16,6 +16,8 @@
 - [[梭哈-pm-skills]] - 2026-03-30 - pm-skills 产品管理技能
 - [[agtx]] - 2026-04-06 - 管理其他编码代理的看板工具
 - [[claudecode-open-source]] - 2026-04-06 - 开源 Claude Code 实现
+- [[seedance2-storyboard-generator]] - 2026-04-06 - AI 视频制作工作流
+- [[suno-audio-quality-tips]] - 2026-04-06 - Suno 音乐质量提升技巧
 
 ## 综合 (syntheses/)
 （待添加）
