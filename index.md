@@ -10,6 +10,7 @@
 - [[OpenClaw]] - 开源 AI Agent 生态
 - [[Compound Engineering]] - 用知识积累实现 self-improving agent
 - [[gstack]] - YC CEO 的 Claude Code skills 集合
+- [[个人开发工作流]] - 完整的 AI 辅助开发流程方案
 
 ## 来源 (sources/)
 - [[karpathy-llm-wiki]] - 2026-04-05 - LLM Wiki 原始 Gist
@@ -24,9 +25,10 @@
 - [[suno-audio-quality-tips]] - 2026-04-06 - Suno 音乐质量提升技巧
 - [[stitch-skills]] - 2026-04-06 - Google Stitch Agent Skills
 - [[openfang]] - 2026-04-06 - Agent 操作系统
+- [[open-viking]] - 2026-04-06 - Context Database for AI Agents
 
 ## 综合 (syntheses/)
-（待添加）
+- [[个人开发工作流]] - 基于 OpenViking + OpenHarness + gstack 的完整方案
 
 ---
 

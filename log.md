@@ -24,11 +24,11 @@
 - Suno 音频质量提升技巧 - 提示词技巧
 
 ## [2026-04-06] ingest | 抖音收藏（第三批）
-- stitch-skills - 3.9k stars，Google Stitch Agent Skills
+- stitch-skills - 3.9 k stars，Google Stitch Agent Skills
 - 创建了概念页：设计系统
 
 ## [2026-04-06] ingest | 抖音收藏（第四批）
-- openfang - 16.4k stars，Agent 操作系统
+- openfang - 16.4 k stars，Agent 操作系统
 - 创建了概念页：OpenClaw
 
 ## [2026-04-06] update | Jason Zuo thread 详细版
@@ -36,4 +36,19 @@
 - 更新了 jason-zuo-gstack-compound-engineering 来源摘要
 - 创建了概念页：Compound Engineering
 - 创建了概念页：gstack
+
+## [2026-04-06] ingest | OpenHarness 项目研究
+- HKUDS 开源的 Agent Harness
+- 5.3 k stars
+- 核心特性：Agent Loop、43 工具、Hook 系统
+
+## [2026-04-06] ingest | OpenViking 项目研究
+- 火山引擎开源的 Context Database
+- 21.2 k stars
+- 已部署在 192.168.5.225
+
+## [2026-04-06] 综合 | 个人开发工作流方案
+- 基于用户背景和需求分析
+- 创建了概念页：个人开发工作流
+- 整合 OpenViking + OpenHarness + gstack + Deer Flow
 - 更新了 index.md 和 log.md
