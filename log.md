@@ -26,4 +26,8 @@
 ## [2026-04-06] ingest | 抖音收藏（第三批）
 - stitch-skills - 3.9k stars，Google Stitch Agent Skills
 - 创建了概念页：设计系统
+
+## [2026-04-06] ingest | 抖音收藏（第四批）
+- openfang - 16.4k stars，Agent 操作系统
+- 创建了概念页：OpenClaw
 - 更新了 index.md 和 log.md

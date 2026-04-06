@@ -7,6 +7,7 @@
 - [[llm-wiki]] - 用 LLM 增量构建和维护的个人知识库模式
 - [[多智能体协作]] - 多个 AI 代理协同工作的模式
 - [[设计系统]] - AI 时代的设计系统构建方法
+- [[OpenClaw]] - 开源 AI Agent 生态
 
 ## 来源 (sources/)
 - [[karpathy-llm-wiki]] - 2026-04-05 - LLM Wiki 原始 Gist
@@ -20,6 +21,7 @@
 - [[seedance2-storyboard-generator]] - 2026-04-06 - AI 视频制作工作流
 - [[suno-audio-quality-tips]] - 2026-04-06 - Suno 音乐质量提升技巧
 - [[stitch-skills]] - 2026-04-06 - Google Stitch Agent Skills
+- [[openfang]] - 2026-04-06 - Agent 操作系统
 
 ## 综合 (syntheses/)
 （待添加）
