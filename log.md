@@ -18,3 +18,12 @@
 - 创建了 6 个来源摘要页面
 - 更新了 index.md
 - 记录到 log.md
+
+## [2026-04-06] ingest | AGTX 项目研究
+- 从抖音收藏视频发现 AGTX 项目
+- 研究了 GitHub 仓库：811 stars, 68 forks
+- 创建了原始来源页：raw/sources/agtx-2026-04-06.md
+- 创建了来源摘要页：wiki/sources/agtx.md
+- 创建了概念页：wiki/concepts/多智能体协作.md
+- 更新了 index.md 和 log.md
+- 推送到 GitHub
