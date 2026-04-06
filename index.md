@@ -1,15 +1,18 @@
 # Wiki Index
 
-这是一个基于 Karpathy llm-wiki 思路构建的个人知识库。
-
 ## 实体 (entities/)
-（待添加）
+- [[karpathy]] - AI 研究者，LLM Wiki 提出者
 
 ## 概念 (concepts/)
-（待添加）
+- [[llm-wiki]] - 用 LLM 增量构建和维护的个人知识库模式
 
 ## 来源 (sources/)
-（待添加）
+- [[karpathy-llm-wiki]] - 2026-04-05 - LLM Wiki 原始 Gist
+- [[老张-karpathy-obsidian教程]] - 2026-04-05 - Obsidian 落地实战
+- [[jason-zuo-gstack-compound-engineering]] - 2026-03-30 - gstack self-learning
+- [[tom-huang-wecom-cli]] - 2026-03-30 - 企业微信 CLI 开源
+- [[a9-silver-microsoft-vibevoice]] - 2026-03-30 - 微软语音 AI
+- [[梭哈-pm-skills]] - 2026-03-30 - pm-skills 产品管理技能
 
 ## 综合 (syntheses/)
 （待添加）
