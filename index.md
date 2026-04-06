@@ -15,6 +15,7 @@
 - [[a9-silver-microsoft-vibevoice]] - 2026-03-30 - 微软语音 AI
 - [[梭哈-pm-skills]] - 2026-03-30 - pm-skills 产品管理技能
 - [[agtx]] - 2026-04-06 - 管理其他编码代理的看板工具
+- [[claudecode-open-source]] - 2026-04-06 - 开源 Claude Code 实现
 
 ## 综合 (syntheses/)
 （待添加）

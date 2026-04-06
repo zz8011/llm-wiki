@@ -26,4 +26,10 @@
 - 创建了来源摘要页：wiki/sources/agtx.md
 - 创建了概念页：wiki/concepts/多智能体协作.md
 - 更新了 index.md 和 log.md
-- 推送到 GitHub
+
+## [2026-04-06] ingest | Claude Code 开源项目
+- 从抖音收藏视频发现 Claude Code 源码泄露事件
+- 研究了 GitHub 仓库：soongenwong/claudecode，679 stars
+- 创建了原始来源页：raw/sources/claudecode-open-source-2026-04-06.md
+- 创建了来源摘要页：wiki/sources/claudecode-open-source.md
+- 更新了 index.md 和 log.md
