@@ -8,11 +8,13 @@
 - [[多智能体协作]] - 多个 AI 代理协同工作的模式
 - [[设计系统]] - AI 时代的设计系统构建方法
 - [[OpenClaw]] - 开源 AI Agent 生态
+- [[Compound Engineering]] - 用知识积累实现 self-improving agent
+- [[gstack]] - YC CEO 的 Claude Code skills 集合
 
 ## 来源 (sources/)
 - [[karpathy-llm-wiki]] - 2026-04-05 - LLM Wiki 原始 Gist
 - [[老张-karpathy-obsidian教程]] - 2026-04-05 - Obsidian 落地实战
-- [[jason-zuo-gstack-compound-engineering]] - 2026-03-30 - gstack self-learning
+- [[jason-zuo-gstack-compound-engineering]] - 2026-04-06 - gstack + CE 详细分析
 - [[tom-huang-wecom-cli]] - 2026-03-30 - 企业微信 CLI 开源
 - [[a9-silver-microsoft-vibevoice]] - 2026-03-30 - 微软语音 AI
 - [[梭哈-pm-skills]] - 2026-03-30 - pm-skills 产品管理技能

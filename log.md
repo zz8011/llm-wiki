@@ -30,4 +30,10 @@
 ## [2026-04-06] ingest | 抖音收藏（第四批）
 - openfang - 16.4k stars，Agent 操作系统
 - 创建了概念页：OpenClaw
+
+## [2026-04-06] update | Jason Zuo thread 详细版
+- 发现更详细的 thread 内容
+- 更新了 jason-zuo-gstack-compound-engineering 来源摘要
+- 创建了概念页：Compound Engineering
+- 创建了概念页：gstack
 - 更新了 index.md 和 log.md
