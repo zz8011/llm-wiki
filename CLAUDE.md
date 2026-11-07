@@ -1,3 +1,12 @@
+---
+title: "LLM Wiki Maintenance Guide"
+type: note
+tags: [area/knowledge, topic/llm-wiki]
+summary: "llm-wiki 维护指南：目录结构、ingest/query 流程。"
+status: active
+confidence: high
+updated: 2026-04-06
+---
 # LLM Wiki Maintenance Guide
 
 这是一个基于 Karpathy llm-wiki 思路构建的个人知识库。

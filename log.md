@@ -1,3 +1,12 @@
+---
+title: "Wiki Log"
+type: note
+tags: [area/knowledge, topic/llm-wiki]
+summary: "llm-wiki 操作日志：按日期的 ingest/update 记录。"
+status: active
+confidence: high
+updated: 2026-04-06
+---
 # Wiki Log
 
 ## [2026-04-06] ingest | llm-wiki 初始化
@@ -52,3 +61,13 @@
 - 创建了概念页：个人开发工作流
 - 整合 OpenViking + OpenHarness + gstack + Deer Flow
 - 更新了 index.md 和 log.md
+
+## [2026-04-06] deploy | Deer Flow 本地部署
+- 决策： Deer Flow 本地部署到 192.168.5.168（开发主战场）
+- 原因：远程 192.168.5.225:2026 使用不便，本地访问无延迟
+- 架构：
+  - 本机 192.168.5.168:2026 ← Deer Flow (本地)
+  - 远程 192.168.5.225:1933 ← OpenViking (全局记忆中心)
+- 部署方式：Docker Compose，从远程服务器导出镜像导入
+- 数据持久化：~/deer-flow-data
+- 状态：运行中，HTTP 200 验证通过

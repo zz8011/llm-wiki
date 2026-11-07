@@ -1,3 +1,12 @@
+---
+title: "Wiki Index"
+type: index
+tags: [area/knowledge, topic/llm-wiki]
+summary: "llm-wiki 目录索引：实体/概念/来源页导航。"
+status: active
+confidence: high
+updated: 2026-04-06
+---
 # Wiki Index
 
 ## 实体 (entities/)
